@@ -27,7 +27,7 @@ export const COURSES = [
     rating: 4.8,
     level: "Beginner",
     category: "Design",
-    image: "https://images.unsplash.com/photo-1626785774573-4b799314346d?w=400&h=250&auto=format&fit=crop&q=60",
+    image: "https://images.unsplash.com/photo-1561070791-2526d30994b5?w=400&h=250&auto=format&fit=crop&q=60",
     tags: ["UI/UX", "Prototyping", "Wireframing"],
     description: "Learn Figma from scratch. Design beautiful user interfaces, create interactive prototypes, and collaborate with developers efficiently.",
     syllabus: [
